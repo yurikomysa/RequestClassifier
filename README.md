@@ -324,7 +324,7 @@ RequestClassifier/
 
 - **Автор:** Yuri Komysa
 - **Email:** yurikomysa@gmail.com
-- **GitHub:** [github.com/yurikomysa/RequestClassifier](https://github.com/yurikomysa/RequestClassifier)
+- **GitHub:** [github.com/yurikomysa](https://github.com/yurikomysa/RequestClassifier)
 
 ---
 
